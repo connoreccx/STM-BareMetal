@@ -36,7 +36,7 @@ void pa1_adc_init(void){
 	// Conversion sequence start
 	ADC1->SQR3 = ADC_CH1; // No OR since we are setting the value cleanly
 
-	// Conversion sequence length
+	// Conversion sequence length, sets everything to ZERO
 	ADC1->SQR1 = ADC_SEQ_LEN_1;
 
 	// Enable ADC Module
@@ -46,12 +46,11 @@ void pa1_adc_init(void){
 void start_conversion(void){
 	// Start ADC Conversion
 	ADC1->CR2 |= CR2_SWSTART;
-	//1
 }
 
-unit32_t adc_read(void){
+uint32_t adc_read(void){
 	// Wait for the conversion to be complete
-	while(!(ADC1_SR & SR_EOC)){}
+	while(!(ADC1->SR & SR_EOC)){}
 
 	// Read the converted result
 	return ADC1->DR;

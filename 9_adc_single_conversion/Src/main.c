@@ -10,10 +10,10 @@ int main(void){
 
 	uart2_tx_init();
 	pa1_adc_init();
-	start_conversion();
 
 	while(1){
+		start_conversion();
 		sensor_value = adc_read();
-		printf("Sensor value: %d \n\r", sensor_value);
+		printf("Sensor value: %d \n\r", (int)sensor_value);
 	}
 }
