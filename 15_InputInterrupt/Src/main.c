@@ -6,25 +6,15 @@
 #include "systick.h"
 #include "tim.h"
 #include "exti.h"
-
-#define GPIOAEN				(1U<<0)
-
-#define PIN5 				(1U<<5)
-#define LED					PIN5
+#include "led.h"
 
 static void exti_callback(void);
 
 int main(void){
 
-	// 1. Enable clock access to GPIOA
-	RCC->AHB1ENR |= GPIOAEN;
-
-	// 2. Set PA5 as output pin
-	GPIOA->MODER |= (1U<<10);
-	GPIOA->MODER &= ~(1U<<11);
-
 	pc13_exti_init();
 	uart2_tx_init();
+	led_init();
 
 	while(1){
 
@@ -33,7 +23,7 @@ int main(void){
 
 static void exti_callback(void){
 	printf("BTN Pressed... \n\r");
-	GPIOA->ODR ^= LED; // Toggles LED
+	led_toggle();
 }
 
 void EXTI15_10_IRQHandler(void){
