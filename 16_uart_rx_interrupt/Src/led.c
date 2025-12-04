@@ -14,7 +14,7 @@ void led_init(void){
 }
 
 void led_toggle(void){
-	GPIOA->ODR ^= LED; // Toggles LED
+	GPIOA->ODR ^= LED;
 }
 
 void led_on(void){
@@ -24,3 +24,4 @@ void led_on(void){
 void led_off(void){
 	GPIOA->ODR &= ~LED;
 }
+
