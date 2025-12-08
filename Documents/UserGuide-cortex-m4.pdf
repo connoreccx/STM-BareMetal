@@ -13133,3 +13133,123 @@ trailer
 startxref
 116
 %%EOF
+1859 0 obj
+<</CropBox[ 8 0 604 792]/Annots[ 1860 0 R 1861 0 R 1862 0 R 1863 0 R 1864 0 R 1865 0 R 4546 0 R 4547 0 R]/Parent 4002 0 R/B[ 4053 0 R]/Contents 1867 0 R/Rotate 0/MediaBox[ 0 0 612 792]/Thumb 2434 0 R/Resources 1866 0 R/Type/Page>>
+endobj
+1872 0 obj
+<</CropBox[ 8 0 604 792]/Annots[ 1873 0 R 1874 0 R 4556 0 R 4557 0 R]/Parent 4002 0 R/B[ 4052 0 R]/Contents 1876 0 R/Rotate 0/MediaBox[ 0 0 612 792]/Thumb 2435 0 R/Resources 1875 0 R/Type/Page>>
+endobj
+4546 0 obj
+<</Type/Annot/Subtype/Highlight/P 1859 0 R/F 4/M(D:20251207123333-05'00')/NM(eea1073d-15c7-400d-b294-5aa66f9fab6c)/Rect[ 493.5913 303.95446 524.707189 313.15653]/C[ 1 .941176 .4]/Popup 4547 0 R/CA 1/CreationDate(D:20251207123333-05'00')/QuadPoints[ 493.5913 313.15653 524.707189 313.15653 493.5913 303.95446 524.707189 303.95446]/AP<</N 4554 0 R>>>>
+endobj
+4547 0 obj
+<</Type/Annot/Subtype/Popup/Open false/F 28/Rect[ 612 193.15653 792 313.15653]/Parent 4546 0 R>>
+endobj
+4552 0 obj
+<</Length 116/Type/XObject/Subtype/Form/FormType 1/BBox[ 493.5913 303.95446 524.707189 313.15653]/Matrix[ 1 0 0 1 -493.5913 -303.95446]/Resources<</ProcSet[/PDF]>>>>
+stream
+1 .941176 .4 rg
+.575129 w
+493.5913 303.95446 m
+493.5913 313.15653 l
+524.707189 313.15653 l
+524.707189 303.95446 l
+f
+
+endstream
+endobj
+4553 0 obj
+<</Length 9/Type/XObject/Subtype/Form/FormType 1/BBox[ 0 0 31.115889 9.20207]/Matrix[ 1 0 0 1 0 0]/Resources<</ProcSet[/PDF]/XObject<</Form 4552 0 R>>>>/Group<</S/Transparency>>>>
+stream
+/Form Do
+
+endstream
+endobj
+4554 0 obj
+<</Length 20/Type/XObject/Subtype/Form/FormType 1/BBox[ 0 0 31.115889 9.20207]/Matrix[ 1 0 0 1 0 0]/Resources<</ProcSet[/PDF]/XObject<</MWFOForm 4553 0 R>>/ExtGState<</R0 4555 0 R>>>>>>
+stream
+/R0 gs
+/MWFOForm Do
+
+endstream
+endobj
+4555 0 obj
+<</Type/ExtGState/AIS false/BM/Multiply>>
+endobj
+4556 0 obj
+<</Type/Annot/Subtype/Highlight/P 1872 0 R/F 4/M(D:20251207123339-05'00')/NM(225f0f84-c329-4606-b0cd-c97531b309fb)/Rect[ 129.84 631.92 363.5844 642.27]/C[ 1 .941176 .4]/Popup 4557 0 R/CA 1/CreationDate(D:20251207123339-05'00')/QuadPoints[ 129.84 642.27 140.3178 642.27 129.84 631.92 140.3178 631.92 168.8208 642.27 204.7335 642.27 168.8208 631.92 204.7335 631.92 235.8357 642.27 363.5844 642.27 235.8357 631.92 363.5844 631.92]/AP<</N 4564 0 R>>>>
+endobj
+4557 0 obj
+<</Type/Annot/Subtype/Popup/Open false/F 28/Rect[ 612 522.27 792 642.27]/Parent 4556 0 R>>
+endobj
+4562 0 obj
+<</Length 244/Type/XObject/Subtype/Form/FormType 1/BBox[ 129.84 631.92 363.5844 642.27]/Matrix[ 1 0 0 1 -129.84 -631.92]/Resources<</ProcSet[/PDF]>>>>
+stream
+1 .941176 .4 rg
+.646875 w
+129.84 631.92 m
+129.84 642.27 l
+140.3178 642.27 l
+140.3178 631.92 l
+f
+168.8208 631.92 m
+168.8208 642.27 l
+204.7335 642.27 l
+204.7335 631.92 l
+f
+235.8357 631.92 m
+235.8357 642.27 l
+363.5844 642.27 l
+363.5844 631.92 l
+f
+
+endstream
+endobj
+4563 0 obj
+<</Length 9/Type/XObject/Subtype/Form/FormType 1/BBox[ 0 0 233.7444 10.35]/Matrix[ 1 0 0 1 0 0]/Resources<</ProcSet[/PDF]/XObject<</Form 4562 0 R>>>>/Group<</S/Transparency>>>>
+stream
+/Form Do
+
+endstream
+endobj
+4564 0 obj
+<</Length 20/Type/XObject/Subtype/Form/FormType 1/BBox[ 0 0 233.7444 10.35]/Matrix[ 1 0 0 1 0 0]/Resources<</ProcSet[/PDF]/XObject<</MWFOForm 4563 0 R>>/ExtGState<</R0 4565 0 R>>>>>>
+stream
+/R0 gs
+/MWFOForm Do
+
+endstream
+endobj
+4565 0 obj
+<</Type/ExtGState/AIS false/BM/Multiply>>
+endobj
+4017 0 obj
+<</CreationDate(D:20101216190418Z)/Subject(A generic User Guide for devices that implement the ARM Cortex-M4 processor, intended for end-users. The document includes 4GB unified memory map, the exception model and Nested Vectored Interrupt Controller (NVIC), Optional bit-banding, and the implemented Thumb and floating-point instruction set descriptions.)/Copyright(Copyright © 2010 ARM. All rights reserved.)/Author(ARM Limited)/Creator(FrameMaker 8.0)/Keywords(Cortex-M, Cortex-M4)/Producer(Acrobat Distiller 8.2.0 (Windows))/ModDate(D:20251207125556-05'00')/Title(Cortex-M4 Devices Generic User Guide)>>
+endobj
+xref
+1859 1
+0001755988 00000 n
+1872 1
+0001756237 00000 n
+4017 1
+0001759311 00000 n
+4546 2
+0001756450 00000 n
+0001756818 00000 n
+4552 6
+0001756933 00000 n
+0001757252 00000 n
+0001757478 00000 n
+0001757721 00000 n
+0001757781 00000 n
+0001758247 00000 n
+4562 4
+0001758356 00000 n
+0001758788 00000 n
+0001759011 00000 n
+0001759251 00000 n
+trailer
+<</Size 4566/Prev 116/Root 4019 0 R/Info 4017 0 R/ID[<770AFBBE18E56CD055650E35C7CA860E><06F0DFA65D193A19F3802C6867611696>]>>
+startxref
+1759937
+%%EOF
