@@ -3,6 +3,7 @@
 #include <stdio.h>
 #include "uart.h"
 #include "led.h"
+#include "i2c.h"
 
 static void dma_callback(void);
 
